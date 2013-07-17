@@ -4,15 +4,15 @@
     id        = "com.phonegap.getting.started"
     version     = "1.0.0">
 
-    <name>umm: Unofficial Moodle Mobile app</name>
+    <name>snumm: SNUMM's NOT Unofficial Moo_dle Mobile app</name>
 
     <description>
-        A clone of the official Moodle Mobile app (iPhone)
+        A fork of UMM
     </description>
 
-    <author href="http://twitter.com/jleyvadelgado"
-        email="juanleyvadelgado@gmail.com">
-        Juan Leyva
+    <author href="http://www.faqlinux.com"
+        email="chixor@ch1x0r.net">
+        Kaoru Wilbur
     </author>
 
     <gap:platforms>

@@ -39,7 +39,7 @@ Catalan translation: Antonio Piedras (Universitat de Barcelona)
 
 === OPTION 1 === 
 
-Requeriments: Google Chrome browser + Ripple mobile enviroment emulator plugin (http://ripple.tinyhippos.com/)
+Requirements: Google Chrome browser + Ripple mobile enviroment emulator plugin (http://ripple.tinyhippos.com/)
 
 You must run Google Chrome in Unsafe mode adding this params: --allow-file-access-from-files --disable-web-security
 
